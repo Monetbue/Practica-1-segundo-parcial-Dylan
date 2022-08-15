@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Primera practica segundo parcial</string>
+    <string name="txt1">Elige tu Xenoblade favorito</string>
+    <string name="txt2">Xenoblade 1</string>
+    <string name="txt3">Xenoblade 2</string>
+    <string name="txt4">Xenoblade 3</string>
+</resources>
